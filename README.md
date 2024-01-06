@@ -55,6 +55,15 @@
 
 > Wait for start the bot successfully and now you're ready to use your bot. open telegram and start & use your bot.
 
+## Practical Video:
+
++ Click here to watch Installation video with practical
+
+<a href="https://youtu.be/a7nVM-ipdIQ?si=YgIcw08GQdiiRd1q" >
+<img src="https://i.ibb.co/DrvqDdy/kmc-20240106-184747.png" >
+</a>
+
+
 ## Screenshots
 
 ![photo](https://i.ibb.co/6DqBDts/20231229-232024.jpg)
